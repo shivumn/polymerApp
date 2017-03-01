@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="polymerApp.core" />
+        <module name="polymerApp.it.launcher" />
+        <module name="polymerApp.it.tests" />
+        <module name="polymerApp.ui.apps" />
+        <module name="polymerApp.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="polymerApp" target="1.6" />
+      <module name="polymerApp.core" target="1.6" />
+      <module name="polymerApp.it.launcher" target="1.6" />
+      <module name="polymerApp.it.tests" target="1.6" />
+      <module name="polymerApp.ui.apps" target="1.6" />
+      <module name="polymerApp.ui.content" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

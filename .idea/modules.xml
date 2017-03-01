@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/polymerApp.iml" filepath="$PROJECT_DIR$/polymerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/polymerApp.core.iml" filepath="$PROJECT_DIR$/core/polymerApp.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.launcher/polymerApp.it.launcher.iml" filepath="$PROJECT_DIR$/it.launcher/polymerApp.it.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/polymerApp.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/polymerApp.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/polymerApp.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/polymerApp.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/polymerApp.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/polymerApp.ui.content.iml" />
+    </modules>
+  </component>
+</project>
